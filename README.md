@@ -33,7 +33,8 @@
 <!-- no need to change these -->
 
 <!-- icons with padding -->
-
+<h2>
+	
 
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
@@ -59,6 +60,7 @@
 
 [CodeX]:  https://codex-portfolio.netlify.app
 
+</h2>
 <!--
 **Castercodex/Castercodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
