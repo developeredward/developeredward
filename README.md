@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+### Python Is Bae
+
+-- Currently a Front-End Web Developer
+-- ⚡ Python Addict
+-- Learning The Dragon Lang
+
+### CODE_X
+
+### Portfolio
+
+[netlify][netlify]
+
+https://codex-portfolio.netlify.app
 <!--
 **Castercodex/Castercodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
