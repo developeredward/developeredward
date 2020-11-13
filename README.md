@@ -14,12 +14,13 @@
  <img src="https://img.shields.io/badge/HTML-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellowgreen"/>
  <img src="https://img.shields.io/badge/CSS3-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
  <img src="https://img.shields.io/badge/SCSS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow" />
+ <img src="https://img.shields.io/badge/Django-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-red" />
 </p>
 
 
 
 ### Contacts
-🌎[CodeX][CodeX]
+🌎 [CodeX][CodeX]
 
 [CodeX]:  https://codex-portfolio.netlify.app
 <!--
