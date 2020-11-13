@@ -21,10 +21,10 @@
 
 ### Contacts
 🌎 [CodeX][CodeX]
-:facebook: [Facebook][Facebook]
+[1.1]: http://i.imgur.com/P3YfQoD.png 
 
 [CodeX]:  https://codex-portfolio.netlify.app
-[Facebook]: https://facebook.com/berthjone.redely
+[1.1]: https://facebook.com/berthjone.redely
 <!--
 **Castercodex/Castercodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
