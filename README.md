@@ -4,7 +4,7 @@
 
 - Currently a Front-End Web Developer
 - ⚡ Python Addict
-- Learning The Dragon Lang
+- telescope Learning The Dragon Lang
 
 ### CODE_X
 
@@ -12,7 +12,8 @@
  <img src="https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85-Important"/>
  <img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-red" />
  <img src="https://img.shields.io/badge/HTML-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellowgreen"/>
- <img src="https://img.shields.io/badge/CSS3-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" alt="">
+ <img src="https://img.shields.io/badge/CSS3-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
+ <img src="https://img.shields.io/badge/SCSS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow" />
 </p>
 
 
