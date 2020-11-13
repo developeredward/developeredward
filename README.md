@@ -2,9 +2,9 @@
 
 ### Python Is Bae
 
--🌱Currently a Front-End Web Developer
-- ⚡ Python Addict
--🌎Learning The Dragon Lang
+- 🌱Currently a Front-End Web Developer
+-  ⚡ Python Addict
+- 🌎Learning The Dragon Lang
 
 ### Strength
 
@@ -18,10 +18,10 @@
 
 
 
-### Portfolio
-🌎[link][link]
+### Contacts
+🌎[CodeX][CodeX]
 
-[link]:  https://codex-portfolio.netlify.app
+[CodeX]:  https://codex-portfolio.netlify.app
 <!--
 **Castercodex/Castercodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
