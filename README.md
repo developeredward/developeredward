@@ -2,15 +2,22 @@
 
 ### Python Is Bae
 
--- Currently a Front-End Web Developer
--- ⚡ Python Addict
--- Learning The Dragon Lang
+- Currently a Front-End Web Developer
+- ⚡ Python Addict
+- Learning The Dragon Lang
 
 ### CODE_X
 
+<p>
+ <img src="https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85-Important"/>
+ <img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-red" />
+ <img src="https://img.shields.io/badge/HTML-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellowgreen"/>
+</p>
+
+
+
 ### Portfolio
 
-[netlify][netlify]
 
 https://codex-portfolio.netlify.app
 <!--
