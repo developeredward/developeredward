@@ -9,7 +9,7 @@
 <a href="https://github.com/Castercodex/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castercodex&langs_count=8&layout=compact&show_icons=true&theme=radical"/>
 </a>
-<a href="https://github.comCastercodex/github-readme-stats">
+<a href="https://github.com/Castercodex/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Castercodex&theme=radical&hide=contribs,prs" />
 </a>
 
