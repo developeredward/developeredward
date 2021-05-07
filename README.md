@@ -6,7 +6,7 @@
 -  ⚡ Python Addict
 - 🌎Learning The Dragon Lang
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Castercodex)](https://github.com/Castercodex/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Castercodex&show_icons=true&theme=radical)](https://github.com/Castercodex/github-readme-stats)
 
 
 ### Strength
