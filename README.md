@@ -14,7 +14,7 @@
 </a>
 
 
-<!--[![Castercodex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Castercodex)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Castercodex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Castercodex)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Strength
 
