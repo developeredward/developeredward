@@ -6,15 +6,20 @@
 -  ⚡ Python Addict
 
 
-<a href="https://github.com/Castercodex/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castercodex&langs_count=8&layout=compact&show_icons=true&theme=radical"/>
-</a>
-<a href="https://github.com/Castercodex/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Castercodex&theme=radical&hide=contribs,prs" />
-</a>
 
 
-[![Castercodex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Castercodex)](https://github.com/anuraghazra/github-readme-stats)
+	<a min-height="500px" href="https://github.com/Castercodex/github-readme-stats">
+	  <img height="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castercodex&langs_count=8&layout=compact&show_icons=true&theme=radical"/>
+	</a>
+	<a min-height="500px" href="https://github.com/Castercodex/github-readme-stats">
+	  <img height="100%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Castercodex&theme=radical&layout=compact" />
+	</a>
+	<a min-height="500px" href="https://github.com/Castercodex/github-readme-stats">
+	  <img height="100%"  align="center" src="https://github-readme-stats.vercel.app/api?username=Castercodex&theme=radical&hide=contribs,prs" />
+	</a>
+
+	
+
 
 ### Strength
 
@@ -38,7 +43,6 @@
 
 [![alt text][2.1]][2]
 [![alt text][6.1]][6]
-
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
