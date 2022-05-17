@@ -21,13 +21,14 @@
 <!-- 	<a min-height="500px" href="https://github.com/Castercodex/github-readme-stats">
 	  <img height="100%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Castercodex&theme=radical&layout=compact" />
 	</a> -->
-
+<!--
 <p align="center">
 	<a min-height="500px" href="https://github.com/Castercodex/github-readme-stats">
 	  <img height="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castercodex&langs_count=8&layout=compact&show_icons=true&theme=radical"/>
 	</a> 
 	<img height="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=Castercodex&show_icons=true&theme=gotham" alt="Berthjone Redely | Stats" />
 </p>
+-->
 
 ### Strength
 
