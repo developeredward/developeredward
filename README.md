@@ -1,18 +1,7 @@
 ### Hi there MY NAME IS BERTHJONE REDELY EDWARD 👋
 
-## Tech Toolbox 🧰
 
-<p align="left">
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" alt="javascript" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" alt="django" width="40" height="40"/> 
-<img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-512.png" alt="reactjs" width="40" height="40"/>
-<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/sass_icon_130835.png" alt="scss" width="40" height="40"/>
-
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,py,ts,html,css,babel,bash,django,mysql,mongodb,express,react,nodejs,npm,redux)](https://skillicons.dev)
 
 
 
@@ -30,17 +19,6 @@
 </p>
 -->
 
-### Strength
-
-<p>
- <img src="https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85-Important"/>
- <img src="https://img.shields.io/badge/ReactJs-%E2%98%85%E2%98%85%E2%98%85-Important"/>
- <img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-red" />
- <img src="https://img.shields.io/badge/HTML-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellowgreen"/>
- <img src="https://img.shields.io/badge/CSS3-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
- <img src="https://img.shields.io/badge/SCSS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow" />
- <img src="https://img.shields.io/badge/Django-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-red" />
-</p>
 
 ##
 
