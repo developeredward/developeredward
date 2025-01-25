@@ -18,8 +18,8 @@ Here’s a snapshot of the technologies I work with:
 
 ## Stats and Contributions
 
- <a href="#" align="center">![Github stats](https://github-readme-stats.vercel.app/api?username=Castercodex&theme=blueberry&count_private=true&hide_border=true&line_height=20&card_width=400&rank_icon=github)</a>
-  <a href="#" align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Castercodex&layout=compact&theme=blueberry&count_private=true&hide_border=true&card_width=400)</a>
+ <a href="#" align="center">![Github stats](https://github-readme-stats.vercel.app/api?username=Castercodex&theme=blueberry&count_private=true&hide_border=true&line_height=20&card_width=450&rank_icon=github)</a>
+  <a href="#" align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Castercodex&layout=compact&theme=blueberry&count_private=true&hide_border=true&card_width=450)</a>
  <a href="#">[![GitHub Streak](https://streak-stats.demolab.com?user=Castercodex&theme=blueberry&hide_border=true&card_width=1000)](https://git.io/streak-stats)</a>
  <!--
  <a href="#">[![Castercodex WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Castercodex&theme=blueberry&hide_border=true&layout=compact&card_width=300)](https://github.com/anuraghazra/github-readme-stats)</a>
