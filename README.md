@@ -27,10 +27,12 @@ Here’s a snapshot of the technologies I work with:
 
 
 
+<!--
 ## Let’s Connect
 Feel free to reach out to me on any of the platforms below:
+-->
 <!-- Social icons section -->
-
+<!--
 <p align="center">
 <a href="https://www.facebook.com/berthjone.redely"><img src="https://cdn.icon-icons.com/icons2/642/PNG/512/facebook_icon-icons.com_59205.png" alt="Facebook Profile" width="60" height="60"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -47,9 +49,10 @@ Feel free to reach out to me on any of the platforms below:
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=edwardberth1@gmail.com&su=SUBJECT&body=BODY"><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail" width="60" height="60"/></a>
 <!-- <a href="">
 	<img src="https://cdn.icon-icons.com/icons2/61/PNG/128/website_web_12218.png" alt="developeredward" width="40" height="40"/>
-</a> -->
-</p>
+</a> 
 
+</p>
+-->
 ## Fun Facts About Me
 
 - 🎧 I’m a music enthusiast who believes every good developer needs a great playlist.
