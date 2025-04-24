@@ -6,12 +6,6 @@ Here’s a snapshot of the technologies I work with:
 
 [![My Skills](https://skillicons.dev/icons?i=js,py,java,ts,html,css,sass,babel,bash,django,mysql,mongodb,express,react,nodejs,npm,figma,redux&perline=18)](https://skillicons.dev)
 
-<!---
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/838764654620442694?simple=true)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/838764654620442694)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/838764654620442694)](https://dev.discordprofiles.me/openspotify/838764654620442694)
--->
-
 <p>
  <img align="center" src="https://profile-counter.glitch.me/{Castercodex}/count.svg" width="100%" height="100%" />
 </p>
