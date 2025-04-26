@@ -1,6 +1,7 @@
 # Hey There! 👋
 **I'm Berthjone Redely Edward** a passionate Full Stack Developer and an engineering student. I excel at building efficient, user-friendly applications and love coding, music, and problem-solving. My journey in technology is fueled by curiosity, creativity, and a desire to make a meaningful impact through innovation.
 
+
 ## TOOLBOX
 Here’s a snapshot of the technologies I work with:
 
