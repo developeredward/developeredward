@@ -6,11 +6,11 @@
 Here’s a snapshot of the technologies I work with:
 
 [![My Skills](https://skillicons.dev/icons?i=js,py,java,ts,html,css,sass,babel,bash,django,mysql,mongodb,express,react,nodejs,npm,figma,redux&perline=18)](https://skillicons.dev)
-
+<!--
 <p>
  <img align="center" src="https://profile-counter.glitch.me/{Castercodex}/count.svg" width="100%" height="100%" />
 </p>
-
+-->
 ## Stats and Contributions
 
  <a href="#" align="center">![Github stats](https://github-readme-stats.vercel.app/api?username=developeredward&theme=blueberry&count_private=true&hide_border=true&line_height=20&card_width=420&rank_icon=github)</a>
